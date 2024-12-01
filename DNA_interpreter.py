@@ -1,4 +1,4 @@
-#So let's try to make a DNA/python based programming language--->We use letters as commands so we give command A:Add 1 variable to 'x' whereA is Adenine.
+#So let's try to make a DNA/python based programming language--->We use letters as commands so we give command A:Add 1 variable to 'x' where A is Adenine.
 class DNAInterpreter:
     def __init__(self):
         self.x = 0  # Initialize variable x
